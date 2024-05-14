@@ -35,7 +35,7 @@ repositorio-central (https://github.com/devitruvius/college-repository)
 │       │ README.md
 │       │ ... (arquivos do projeto)
 │
-└─ ADS-Fundamentos-Algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+└─ ADS-fundamentos-algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
     │ ... (subpastas e arquivos da disciplina)
     │
     ... (outras disciplinas)
