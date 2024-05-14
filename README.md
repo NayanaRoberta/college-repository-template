@@ -9,17 +9,20 @@ Este repositório serve como template para auxiliar estudantes de Análise e Des
 ### Disciplinas
   * Cada disciplina terá um repositório central com o nome [Nome da Disciplina]
   * O repositório central da disciplina conterá:
-    * README.md: Apresentará uma visão geral da disciplina, incluindo objetivos, ementário, materiais complementares e links para os sub-repositórios das atividades.
+    * README.md: Apresentando uma visão geral da disciplina, incluindo objetivos, possível ementário, materiais complementares e links para os sub-repositórios das atividades.
     * Sub-repositórios: Cada atividade terá um repositório individual com o nome [Nome da Atividade].
 
 ### Atividades
   * Cada atividade terá um repositório individual dentro do repositório central da disciplina.
   * O repositório da atividade conterá:
-    * README.md: Descreverá os objetivos da atividade, e as atividades propriamente desenvolvidas.
+    * README.md: Descrevendo os objetivos da atividade, e as atividades propriamente desenvolvidas.
     * Arquivos como:
         * Códigos: Arquivos de código relacionados à atividade, organizados em subpastas se necessário.
         * Relatórios: Relatórios e documentações gerados durante a atividade.
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
+          
+### READMEs
+  * Cada repositório de disciplina e atividade possuirá um arquivo README como este com informações relevantes.
 
 ### 🌐 Exemplo
 ```
@@ -45,9 +48,6 @@ Este repositório serve como template para auxiliar estudantes de Análise e Des
 │
 ... (outras disciplinas)
 ```
-
-### READMEs
-  * Cada repositório de disciplina e atividade possuirá um arquivo README como este com informações relevantes.
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, este repositório principal pode ser dividido em seções para cada semestre. Cada seção pode conter os links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
