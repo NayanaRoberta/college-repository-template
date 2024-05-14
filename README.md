@@ -1,4 +1,4 @@
-# Template para Repositório de Atividades - Análise e Desenvolvimento de Sistemas
+# Template para Repositório de Atividades - ADS
 
 ## Objetivo
 
