@@ -29,16 +29,19 @@ repositorio-central (https://github.com/devitruvius/college-repository)
 │   │
 │   ├─ projeto-integrado-I
 │   │   │ README.md
-│   │   │ ... (arquivos do projeto)
+│   │   └─ ... (arquivos do projeto)
 │   │
 │   └─ projeto-integrado-II (https://github.com/devitruvius/PI-II)
 │       │ README.md
-│       │ ... (arquivos do projeto)
+│       └─ ... (arquivos do projeto)
 │
 └─ ADS-fundamentos-algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
-    │ ... (subpastas e arquivos da disciplina)
-    │
-    ... (outras disciplinas)
+│   │  README.md
+│   └─  FA-python-conditional-statement
+│        │  README.md
+│        └─ ... (subpastas e arquivos da atividade)
+│
+... (outras disciplinas)
 ```
 
 ### READMEs
