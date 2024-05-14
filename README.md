@@ -49,7 +49,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ## Projeto Integrado
-O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, os alunos integram os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
+O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, integramos os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
 
 * [Projeto Integrado](https://github.com/devitruvius/ADS-integrated-project-example) <-
 
