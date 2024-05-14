@@ -88,7 +88,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 
 * [Projeto Integrado](https://github.com/devitruvius/ADS-integrated-project-example)
   * Este seria um exemplo de repositório central da disciplina. Oferecendo um sistema de navegação intuitivo com hiperlinks, você pode explorar rapidamente as atividades de cada disciplina (neste caso Projeto Integrado I, II, III e IV), visualizando descrições detalhadas, materiais relevantes e etc.
-  * Você pode estar copiando o Markdown e iniciar o seu próprio repositório a partir deste modelo.
+  ✅ Você pode estar copiando o Markdown e iniciar o seu próprio repositório a partir deste modelo.
 
   ### Exemplo de Markdown
   ```
@@ -121,7 +121,8 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ## Projeto Integrado II
-Este seria um sub-repositório e nele você documentaria diretamente o desenvolvimento das atividades do Projeto Integrado II. Você também pode estar copiando esse Markdown e iniciar o seu próprio sub-repositório a partir deste modelo.
+Este seria um sub-repositório e nele você documentaria diretamente o desenvolvimento das atividades do Projeto Integrado II. 
+✅ Você também pode estar copiando esse Markdown e iniciar o seu próprio sub-repositório a partir deste modelo.
 
 * [Projeto Integrado II](https://github.com/devitruvius/PI-II)
 
