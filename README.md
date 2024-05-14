@@ -71,7 +71,6 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ### Semestre 2
-✅ Confira a seção **Projeto Integrado** abaixo para um modelo de repositório e sugestões de organização para o README.
 
 * [Desenvolvimento em Nuvem](https://github.com/seu-user/seu-repositorio)
   
@@ -84,7 +83,8 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 * [Projeto de Banco de Dados](https://github.com/seu-user/seu-repositorio)
   
 * [Rede e Sistemas Distribuídos](https://github.com/seu-user/seu-repositorio)
-  
+
+✅ Confira a seção **Projeto Integrado** abaixo para um modelo de repositório e sugestões de organização para o README.
 <hr>
 
 ## Projeto Integrado
