@@ -35,7 +35,7 @@ repositorio-central (https://github.com/devitruvius/college-repository)
 │       │ README.md
 │       │ ... (arquivos do projeto)
 │
-└─ ADS-Fundamentos-Algoritmo (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+└─ ADS-Fundamentos-Algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
     │ ... (subpastas e arquivos da disciplina)
     │
     ... (outras disciplinas)
@@ -182,7 +182,7 @@ Este seria um sub-repositório e nele você documentaria diretamente o desenvolv
    
    * [Projeto Integrado IV](https://github.com/seu-user/PI-IV)
    
-   * [Projeto Integrado (Repositório Pai)](https://github.com/devitruvius/ADS-integrated-project)
+   * [Projeto Integrado (Repositório Pai)](https://github.com/seu-user/ADS-integrated-project)
    
    ## Licença
    
