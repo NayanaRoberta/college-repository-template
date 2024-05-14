@@ -21,24 +21,26 @@ Este repositório serve como template para auxiliar estudantes de Análise e Des
         * Relatórios: Relatórios e documentações gerados durante a atividade.
         * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
 
-### Exemplo
+### 🌐 Exemplo
 ```
-repositorio-central (https://github.com/devitruvius/college-repository)
+📁 repositorio-central (https://github.com/devitruvius/college-repository)
+📄 README.md
 │
-├─ ADS-projeto-integrado (https://github.com/devitruvius/ADS-integrated-project)
-│   │
-│   ├─ projeto-integrado-I
-│   │   │ README.md
-│   │   └─ ... (arquivos do projeto)
-│   │
-│   └─ projeto-integrado-II (https://github.com/devitruvius/PI-II)
-│       │ README.md
-│       └─ ... (arquivos do projeto)
+├─📁 ADS-projeto-integrado (https://github.com/devitruvius/ADS-integrated-project)
+│  📄 README.md
+│  │
+│  ├─ projeto-integrado-I
+│  │   📄 README.md
+│  │   └─ ... (arquivos do projeto)
+│  │
+│  └─ projeto-integrado-II (https://github.com/devitruvius/PI-II)
+│      📄 README.md
+│      └─ ... (arquivos do projeto)
 │
-└─ ADS-fundamentos-algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
-│   │  README.md
-│   └─  FA-python-conditional-statement
-│        │  README.md
+└─📁 ADS-fundamentos-algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+│     📄 README.md
+│     └─📁FA-python-conditional-statement
+│        📄 README.md
 │        └─ ... (subpastas e arquivos da atividade)
 │
 ... (outras disciplinas)
