@@ -109,7 +109,7 @@ Para facilitar a organização e a visualização dos materiais, este repositór
   ## Repositório Principal
   
   Este seria o repositório da faculdade que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS). Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-  * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/seu-user/college-repository)
+  * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas](https://github.com/seu-user/college-repository)
    
   ## Licença
   
