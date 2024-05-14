@@ -23,24 +23,24 @@ Este repositório serve como template para auxiliar estudantes de Análise e Des
 
 ### 🌐 Exemplo
 ```
-📁 repositorio-central (https://github.com/devitruvius/college-repository)
-📄 README.md
+📁repositorio-central - (https://github.com/devitruvius/college-repository)
+📄README.md
 │
-├─📁 ADS-projeto-integrado (https://github.com/devitruvius/ADS-integrated-project)
-│  📄 README.md
+├─📁ADS-projeto-integrado - (https://github.com/devitruvius/ADS-integrated-project)
+│  📄README.md
 │  │
-│  ├─ projeto-integrado-I
-│  │   📄 README.md
-│  │   └─ ... (arquivos do projeto)
+│  ├─📁projeto-integrado-I
+│  │    📄README.md
+│  │    └─ ... (arquivos do projeto)
 │  │
-│  └─ projeto-integrado-II (https://github.com/devitruvius/PI-II)
-│      📄 README.md
-│      └─ ... (arquivos do projeto)
+│  └─📁projeto-integrado-II - (https://github.com/devitruvius/PI-II)
+│       📄README.md
+│       └─ ... (arquivos do projeto)
 │
-└─📁 ADS-fundamentos-algoritmos (https://github.com/devitruvius/ADS-fundamentals-algorithms)
-│     📄 README.md
+└─📁ADS-fundamentos-algoritmos - (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+│     📄README.md
 │     └─📁FA-python-conditional-statement
-│        📄 README.md
+│        📄README.md
 │        └─ ... (subpastas e arquivos da atividade)
 │
 ... (outras disciplinas)
