@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este repositório serve como template para auxiliar estudantes de Análise e Desenvolvimento de Sistemas (ADS) da UFCA na organização e armazenamento das atividades realizadas ao longo do curso. Ele oferece uma estrutura intuitiva para guardar códigos, relatórios, documentações e outros materiais relevantes, facilitando o acesso e a consulta futura
+Este repositório serve como template para auxiliar estudantes de Análise e Desenvolvimento de Sistemas (ADS) da UFCA na organização e armazenamento das atividades realizadas ao longo do curso. Ele oferece uma estrutura intuitiva para guardar códigos, relatórios, documentações e outros materiais relevantes, facilitando o acesso e a consulta futura.
 
 ## Estrutura do Repositório
 
