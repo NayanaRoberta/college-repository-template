@@ -7,11 +7,11 @@ Este repositório é um compilado de atividades e aprendizados desenvolvidos no 
 ## Estrutura do Repositório
 
 * **Disciplinas:**
-  * Cada disciplina possui um repositório individual com a sigla "ADS".
-  * Dentro de cada repositório de disciplina, você encontrará sub-repositórios ou subpastas organizados por:
+  * Cada disciplina possui um repositório individual.
+  * Dentro de cada repositório de disciplina, você encontrará sub-repositórios organizados por:
 * **Atividades:**
-  * Cada atividade possui um sub-repositório ou subpasta individual.
-  * Dentro de cada sub-repositório ou subpasta de atividade, você encontrará os arquivos relevantes, como código, relatórios e documentações.
+  * Cada atividade possui um sub-repositório individual.
+  * Dentro de cada sub-repositório de atividade, você encontrará os arquivos relevantes, como código, relatórios e documentações.
 * **READMEs:**
   * Cada repositório de disciplina e atividade possui um arquivo README com informações relevantes.
 
