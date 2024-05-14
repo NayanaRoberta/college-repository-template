@@ -2,24 +2,53 @@
 
 ## Objetivo
 
-Este repositório serve como template para auxiliar estudantes de Análise e Desenvolvimento de Sistemas (ADS) da UFCA na organização e armazenamento das atividades realizadas ao longo do curso. Ele oferece uma sugestão de estrutura para guardar códigos, relatórios, documentações e outros materiais relevantes, facilitando o acesso e a consulta futura.
+Este repositório serve como template para auxiliar estudantes de Análise e Desenvolvimento de Sistemas (ADS) da UFCA na organização e armazenamento das atividades realizadas ao longo do curso. Ele oferece uma sugestão de estrutura para registrar códigos, relatórios, documentações e outros materiais relevantes, facilitando o acesso e a consulta futura.
 
 ## Sugestão de Estrutura
 
-* **Disciplinas:**
-  * Cada disciplina possui um repositório individual.
-  * Dentro de cada repositório de disciplina, você encontrará sub-repositórios organizados por:
-* **Atividades:**
-  * Cada atividade possui um sub-repositório individual.
-  * Dentro de cada sub-repositório de atividade, você encontrará os arquivos relevantes, como código, relatórios e documentações.
-* **READMEs:**
-  * Cada repositório de disciplina e atividade possui um arquivo README com informações relevantes.
+### Disciplinas
+  * Cada disciplina terá um repositório central com o nome [Nome da Disciplina]
+  * O repositório central da disciplina conterá:
+    * README.md: Apresentará uma visão geral da disciplina, incluindo objetivos, ementário, materiais complementares e links para os sub-repositórios das atividades.
+    * Sub-repositórios: Cada atividade terá um repositório individual com o nome [Nome da Atividade].
+
+### Atividades
+  * Cada atividade terá um repositório individual dentro do repositório central da disciplina.
+  * O repositório da atividade conterá:
+    * README.md: Descreverá os objetivos da atividade, e as atividades propriamente desenvolvidas.
+    * Arquivos como:
+        * Códigos: Arquivos de código relacionados à atividade, organizados em subpastas se necessário.
+        * Relatórios: Relatórios e documentações gerados durante a atividade.
+        * Outros: Quaisquer outros arquivos relevantes para a atividade, como apresentações, imagens, etc.
+
+### Exemplo
+```
+repositorio-central (https://github.com/devitruvius/college-repository)
+│
+├─ ADS-projeto-integrado (https://github.com/devitruvius/ADS-integrated-project)
+│   │
+│   ├─ projeto-integrado-I
+│   │   │ README.md
+│   │   │ ... (arquivos do projeto)
+│   │
+│   └─ projeto-integrado-II (https://github.com/devitruvius/PI-II)
+│       │ README.md
+│       │ ... (arquivos do projeto)
+│
+└─ ADS-Fundamentos-Algoritmo (https://github.com/devitruvius/ADS-fundamentals-algorithms)
+    │ ... (subpastas e arquivos da disciplina)
+    │
+    ... (outras disciplinas)
+```
+
+### READMEs
+  * Cada repositório de disciplina e atividade possuirá um arquivo README como este com informações relevantes.
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, este repositório principal pode ser dividido em seções para cada semestre. Cada seção pode conter os links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
  
 ### Semestre 1
-✅ Crie um repositório para cada disciplina e substitua o link no template pelo do seu repositório.
+✅ Você pode criar um repositório para qualquer disciplina e substituir o link no template pelo link do seu repositório.
 
 * [Fundamentos de Algoritmos](https://github.com/seu-user/seu-repositorio)
   
@@ -36,6 +65,8 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ### Semestre 2
+✅ Confira a seção **Projeto Integrado** abaixo para um modelo de repositório e sugestões de organização para o README.
+
 * [Desenvolvimento em Nuvem](https://github.com/seu-user/seu-repositorio)
   
 * [Estrutura de Dados](https://github.com/seu-user/seu-repositorio)
@@ -51,11 +82,12 @@ Para facilitar a organização e a visualização dos materiais, este repositór
 <hr>
 
 ## Projeto Integrado
-O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desenvolvimento de Sistemas, presente em todos os semestres (Projeto Integrado I, II, III e IV). Através da realização de projetos práticos e interdisciplinares, integramos os conhecimentos adquiridos ao longo do curso, aplicando-os à resolução de problemas reais e relevantes para o mercado de trabalho.
 
 * [Projeto Integrado](https://github.com/devitruvius/ADS-integrated-project-example)
+  * Este seria um exemplo de repositório central da disciplina. Oferecendo um sistema de navegação intuitivo com hiperlinks, você pode explorar rapidamente as atividades de cada disciplina (neste caso Projeto Integrado I, II, III e IV), visualizando descrições detalhadas, materiais relevantes e etc.
+  * Você pode estar copiando o Markdown e iniciar o seu próprio repositório a partir deste modelo.
 
-  ### Markdown do Repositório
+  ### Exemplo de Markdown
   ```
   # Projeto Integrado
   
@@ -66,17 +98,18 @@ O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desen
   O repositório principal se organiza em quatro subrepositórios, cada um dedicado a um dos Projetos Integrados (PI) do curso de Análise e Desenvolvimento de Sistemas (ADS):
   
   * [Projeto Integrado I](https://github.com/seu-user/PI-I)
-  
-  * [Projeto Integrado II](https://github.com/devitruvius/PI-II-example) <-
-  
+      * README do Projeto Integrado I
+  * [Projeto Integrado II](https://github.com/seu-user/PI-II)
+      * README do Projeto Integrado II
   * [Projeto Integrado III](https://github.com/seu-user/PI-III)
-  
+      * README do Projeto Integrado III
   * [Projeto Integrado IV](https://github.com/seu-user/PI-IV)
+      * README do Projeto Integrado IV
   
   ## Repositório Principal
   
-  Este é o repositório principal que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS) da UFCA. Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
-  * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/seu-user/college-repository-template)
+  Este seria o repositório da faculdade que contém todas as atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas (ADS). Você pode encontrar todos os materiais relacionados ao curso neste repositório central:
+  * [Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)](https://github.com/seu-user/college-repository)
    
   ## Licença
   
@@ -85,11 +118,11 @@ O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desen
 <hr>
 
 ## Projeto Integrado II
-Este repositório documenta o desenvolvimento do Projeto Integrado II, disciplina do segundo semestre de Análise e Desenvolvimento de Sistemas pela UFCA, que visa a integração de conhecimentos e habilidades adquiridas ao longo do curso. Através da aplicação prática de conceitos multidisciplinares, o projeto busca abordar desafios reais e propor soluções inovadoras.
+Este seria um sub-repositório e nele você documentaria diretamente o desenvolvimento das atividades do Projeto Integrado II. Você também pode estar copiando esse Markdown e iniciar o seu próprio sub-repositório a partir deste modelo.
 
 * [Projeto Integrado II](https://github.com/devitruvius/PI-II)
 
-  ### Markdown do Repositório
+  ### Exemplo de Markdown
    ```
    # Projeto Integrado II
    Este repositório documenta o desenvolvimento do Projeto Integrado  II, disciplina do segundo semestre de Análise e Desenvolvimento de Sistemas pela UFCA, que visa a integração de conhecimentos e habilidades adquiridas ao longo do curso. Através da aplicação prática de conceitos multidisciplinares, o projeto busca abordar desafios reais e propor soluções inovadoras.
@@ -156,6 +189,9 @@ Este repositório documenta o desenvolvimento do Projeto Integrado II, disciplin
    Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
    
    ```
+## Licenciamento 
+
+A licença MIT é uma licença permissiva, o que significa que concede aos usuários uma ampla gama de direitos para usar, copiar, modificar e distribuir o software. Essa licença é frequentemente usada para software de código aberto, pois permite que os usuários colaborem livremente no desenvolvimento do software.
 
 ## Licença
 
