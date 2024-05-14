@@ -1,4 +1,4 @@
-# Template para Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)
+# Template para Repositório de Atividades - Análise e Desenvolvimento de Sistemas
 
 ## Objetivo
 
