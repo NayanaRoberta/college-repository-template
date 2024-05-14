@@ -1,4 +1,4 @@
-# Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)
+# Template para Repositório de Atividades - Análise e Desenvolvimento de Sistemas (UFCA)
 
 ## Objetivo
 
@@ -56,4 +56,3 @@ O Projeto Integrado é uma atividade curricular obrigatória em Análise e Desen
 ## Licença
 
 Este repositório está licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/).
-# college-repository-template
