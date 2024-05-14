@@ -51,6 +51,7 @@ Este repositório serve como template para auxiliar estudantes de Análise e Des
 
 ## Seção Semestral
 Para facilitar a organização e a visualização dos materiais, este repositório principal pode ser dividido em seções para cada semestre. Cada seção pode conter os links para os repositórios das disciplinas cursadas naquele período, permitindo que se encontre rapidamente os materiais de interesse.
+<hr>
  
 ### Semestre 1
 ✅ Você pode criar um repositório para qualquer disciplina e substituir o link no template pelo link do seu repositório.
